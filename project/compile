@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Compile your project here"
+python3 -m pip install -r requirements.txt
